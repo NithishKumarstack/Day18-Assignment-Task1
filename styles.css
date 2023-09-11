@@ -1,0 +1,23 @@
+.container {
+    margin-top: 5%;
+}
+
+.kural-content {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+    display: flex;
+    text-wrap: wrap;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-weight: 700;
+   font-size: x-large;
+   margin-bottom: 10px;
+}
